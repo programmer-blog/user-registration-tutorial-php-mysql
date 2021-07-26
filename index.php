@@ -18,7 +18,7 @@
       $user['email'] = $_POST['email'];
       $user['password'] = $_POST['password'];
       $user['conf_password'] = $_POST['conf_password'];
-      $user['dob'] = $_POST['dob'];G
+      $user['dob'] = $_POST['dob'];
       $user['country'] = $_POST['country'];
       $user['terms'] = $_POST['terms'] ?? null;
       
