@@ -1,4 +1,4 @@
-# user-registration-tutorial-php-mysql
+# User Registration Tutorial using php MySQL
 
 Programmer Blog: http://programmerblog.net
 
